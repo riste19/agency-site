@@ -1,0 +1,23 @@
+<!-- Social share image (1200x630). [REPLACE] text with your brand.
+     Tip: for max compatibility, export this to og-image.png (1200x630) and
+     point the og:image / twitter:image tags in index.html at the .png. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="mesh" cx="28%" cy="22%" r="80%">
+      <stop offset="0%" stop-color="#FBF8F2" />
+      <stop offset="55%" stop-color="#F6F2EA" />
+      <stop offset="100%" stop-color="#EFE7D7" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#mesh)" />
+  <circle cx="1010" cy="150" r="220" fill="#1B3A2B" opacity="0.06" />
+  <circle cx="170" cy="540" r="160" fill="#A8895C" opacity="0.10" />
+  <text x="90" y="150" font-family="Georgia, serif" font-size="26"
+        letter-spacing="6" fill="#A8895C">NORTHBOUND STUDIO</text>
+  <text x="86" y="320" font-family="Georgia, serif" font-size="92"
+        font-weight="600" fill="#191714">We build the web</text>
+  <text x="86" y="420" font-family="Georgia, serif" font-size="92"
+        font-weight="600" fill="#1B3A2B">your business deserves.</text>
+  <text x="90" y="520" font-family="Helvetica, Arial, sans-serif" font-size="28"
+        fill="#5A5550">Web apps · Custom software · Websites</text>
+</svg>

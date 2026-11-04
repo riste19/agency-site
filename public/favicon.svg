@@ -1,0 +1,9 @@
+<!-- [REPLACE] monogram with your own mark. Currently "N" for Northbound Studio. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#1B3A2B" />
+  <path
+    d="M20 44V20h4.6l14 16.4V20H43v24h-4.6l-14-16.4V44H20Z"
+    fill="#F6F2EA"
+  />
+  <circle cx="46" cy="22" r="3" fill="#A8895C" />
+</svg>

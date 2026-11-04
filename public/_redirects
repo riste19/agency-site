@@ -1,0 +1,3 @@
+# Single-page site: serve index.html for any unmatched path.
+# Harmless for a one-pager; future-proofs you if you add client-side routes.
+/*  /index.html  200
